@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "graphql-yoga": "4.0.0",
-    "graphql": "^16.1.0",
+    "graphql": "^16.8.1",
     "next-auth": "4.22.1",
     "next": "13.4.4",
     "react": "18.2.0",
